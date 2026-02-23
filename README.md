@@ -1,3 +1,8 @@
+# JavaScript Workshop - Mimecast(©)
+
+## Workshop: `JavaScript ES6 workshop: The road to ECMAScript 6: New solutions for old JS problems.`
+<br /><br />
+
 # JavaScript ES6 workshop
 ## The road to ECMAScript 6: New solutions for old JS problems.
 A comprehensible ES6 introdution by examples. 
